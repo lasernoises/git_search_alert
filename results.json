@@ -3,29 +3,6 @@
   "number_of_results": 0,
   "results": [
     {
-      "url": "https://en.wikipedia.org/wiki/Florian_Hoffmann",
-      "title": "Florian Hoffmann - Wikipedia",
-      "content": "Florian Hoffmann (born 1981) is an award-winning social entrepreneur and founder of The DO School. He sits on the Supervisory Board of the World Future Council, and was named one of 100 Young Global Leaders by the World Economic Forum in…",
-      "engine": "seznam",
-      "parsed_url": [
-        "https",
-        "en.wikipedia.org",
-        "/wiki/Florian_Hoffmann",
-        "",
-        "",
-        ""
-      ],
-      "engines": [
-        "seznam"
-      ],
-      "positions": [
-        1
-      ],
-      "score": 1,
-      "category": "general",
-      "pretty_url": "https://en.wikipedia.org/wiki/Florian_Hoffmann"
-    },
-    {
       "title": "Florian Plattner - YouTube",
       "content": "Florian Plattner.",
       "url": "https://www.youtube.com/channel/UC8R3yiE_9OiqjzC4_kupcZg",
@@ -49,27 +26,27 @@
       "pretty_url": "https://www.youtube.com/channel/UC8R3yiE_9OiqjzC4_kupcZg"
     },
     {
-      "url": "https://www.youtube.com/watch?v=f-rjBli2u9g",
-      "title": "Plattner GesmbH: PWSS-3000 Modular portal wire saw, Modulare…",
-      "content": "Plattner GesmbH: PWSS-3000 Modular portal wire saw, Modulare PortalseilsÃ¤ge",
+      "url": "https://en.wikipedia.org/wiki/Florian_Hoffmann",
+      "title": "Florian Hoffmann - Wikipedia",
+      "content": "Florian Hoffmann (born 1981) is an award-winning social entrepreneur and founder of The DO School. He sits on the Supervisory Board of the World Future Council, and was named one of 100 Young Global Leaders by the World Economic Forum in…",
       "engine": "seznam",
       "parsed_url": [
         "https",
-        "www.youtube.com",
-        "/watch",
+        "en.wikipedia.org",
+        "/wiki/Florian_Hoffmann",
         "",
-        "v=f-rjBli2u9g",
+        "",
         ""
       ],
       "engines": [
         "seznam"
       ],
       "positions": [
-        2
+        1
       ],
-      "score": 0.5,
+      "score": 1,
       "category": "general",
-      "pretty_url": "https://www.youtube.com/watch?v=f-rjBli2u9g"
+      "pretty_url": "https://en.wikipedia.org/wiki/Florian_Hoffmann"
     },
     {
       "title": "Florian PLATTNER | PhD | Assistant Professor | University of Texas...",
@@ -95,27 +72,27 @@
       "pretty_url": "https://www.researchgate.net/profile/Florian_Plattner"
     },
     {
-      "url": "https://www.facebook.com/lsvtirol/",
-      "title": "LandesschÃ¼lervertretung Tirol - HlavnÃ­ strÃ¡nka | Facebook",
-      "content": "LandesschÃ¼lervertretung Tirol, Innsbruck. 2 321 To se mi lÃ­bÃ­ Â· Byli tady (18). Deine LandesschÃ¼lervertretung Tirol!",
+      "url": "https://www.youtube.com/watch?v=f-rjBli2u9g",
+      "title": "Plattner GesmbH: PWSS-3000 Modular portal wire saw, Modulare…",
+      "content": "Plattner GesmbH: PWSS-3000 Modular portal wire saw, Modulare PortalseilsÃ¤ge",
       "engine": "seznam",
       "parsed_url": [
         "https",
-        "www.facebook.com",
-        "/lsvtirol/",
+        "www.youtube.com",
+        "/watch",
         "",
-        "",
+        "v=f-rjBli2u9g",
         ""
       ],
       "engines": [
         "seznam"
       ],
       "positions": [
-        3
+        2
       ],
-      "score": 0.3333333333333333,
+      "score": 0.5,
       "category": "general",
-      "pretty_url": "https://www.facebook.com/lsvtirol/"
+      "pretty_url": "https://www.youtube.com/watch?v=f-rjBli2u9g"
     },
     {
       "title": "Florian Plattner | Facebook",
@@ -141,14 +118,14 @@
       "pretty_url": "https://www.facebook.com/florian.plattner.10"
     },
     {
-      "url": "http://www.opencsg.org/data/csg_freenix2005_talk.pdf",
-      "title": "OpenCSG - freenix.ppt",
-      "content": "at the university of Potsdam",
+      "url": "https://www.facebook.com/lsvtirol/",
+      "title": "LandesschÃ¼lervertretung Tirol - HlavnÃ­ strÃ¡nka | Facebook",
+      "content": "LandesschÃ¼lervertretung Tirol, Innsbruck. 2 321 To se mi lÃ­bÃ­ Â· Byli tady (18). Deine LandesschÃ¼lervertretung Tirol!",
       "engine": "seznam",
       "parsed_url": [
-        "http",
-        "www.opencsg.org",
-        "/data/csg_freenix2005_talk.pdf",
+        "https",
+        "www.facebook.com",
+        "/lsvtirol/",
         "",
         "",
         ""
@@ -157,11 +134,11 @@
         "seznam"
       ],
       "positions": [
-        4
+        3
       ],
-      "score": 0.25,
+      "score": 0.3333333333333333,
       "category": "general",
-      "pretty_url": "http://www.opencsg.org/data/csg_freenix2005_talk.pdf"
+      "pretty_url": "https://www.facebook.com/lsvtirol/"
     },
     {
       "title": "Florian Plattner (floma8) auf Pinterest",
@@ -187,14 +164,14 @@
       "pretty_url": "https://www.pinterest.ru/floma8/"
     },
     {
-      "url": "https://www.bpv-huegel.com/juristen/",
-      "title": "bpv HÃ¼gel | Team",
-      "content": "Die USA sind ein Drittstaat, in dem kein angemessenes Datenschutzniveau herrscht, und daher Risiken aus der Ãbermittlung entstehen kÃ¶nnen (zB behÃ¶rdliche ZugriffsmÃ¶glichkeiten).",
+      "url": "http://www.opencsg.org/data/csg_freenix2005_talk.pdf",
+      "title": "OpenCSG - freenix.ppt",
+      "content": "at the university of Potsdam",
       "engine": "seznam",
       "parsed_url": [
-        "https",
-        "www.bpv-huegel.com",
-        "/juristen/",
+        "http",
+        "www.opencsg.org",
+        "/data/csg_freenix2005_talk.pdf",
         "",
         "",
         ""
@@ -203,11 +180,11 @@
         "seznam"
       ],
       "positions": [
-        5
+        4
       ],
-      "score": 0.2,
+      "score": 0.25,
       "category": "general",
-      "pretty_url": "https://www.bpv-huegel.com/juristen/"
+      "pretty_url": "http://www.opencsg.org/data/csg_freenix2005_talk.pdf"
     },
     {
       "title": "Florian Plattner | Semantic Scholar",
@@ -233,27 +210,27 @@
       "pretty_url": "https://www.semanticscholar.org/author/Florian-Plattner/5163243"
     },
     {
-      "url": "http://www.bergundsteigen.at/?module=archiv/autoren/Plattner-Peter",
-      "title": "bergundsteigen.at",
-      "content": "Die Unfallmuster sind meist seit Jahrzehnten dieselben und hinlÃ¤nglich bekannt, gelegentlich passiert aber âetwas Neuesâ. Walter WÃ¼rtl und Peter Plattner haben mit UnterstÃ¼tzung der Alpinpolizei einige aktuelle UnfÃ¤lle herausgepickt",
+      "url": "https://www.bpv-huegel.com/juristen/",
+      "title": "bpv HÃ¼gel | Team",
+      "content": "Die USA sind ein Drittstaat, in dem kein angemessenes Datenschutzniveau herrscht, und daher Risiken aus der Ãbermittlung entstehen kÃ¶nnen (zB behÃ¶rdliche ZugriffsmÃ¶glichkeiten).",
       "engine": "seznam",
       "parsed_url": [
-        "http",
-        "www.bergundsteigen.at",
-        "/",
+        "https",
+        "www.bpv-huegel.com",
+        "/juristen/",
         "",
-        "module=archiv/autoren/Plattner-Peter",
+        "",
         ""
       ],
       "engines": [
         "seznam"
       ],
       "positions": [
-        6
+        5
       ],
-      "score": 0.16666666666666666,
+      "score": 0.2,
       "category": "general",
-      "pretty_url": "http://www.bergundsteigen.at/?module=archiv/autoren/Plattner-Peter"
+      "pretty_url": "https://www.bpv-huegel.com/juristen/"
     },
     {
       "title": "Florian Plattner‬ - ‪Google Scholar",
@@ -279,27 +256,27 @@
       "pretty_url": "https://scholar.google.com/citations?user=sqLGUr4AAAAJ&hl=en"
     },
     {
-      "url": "https://www.drplattner.it/index.php/en/10-praxis",
-      "title": "Zahnarztpraxis Dr. Plattner | Brixen | Facharzt fÃ¼r Zahn-, Mund…",
-      "content": "Dr. Anton Plattner _ Zahnarzt in Brixen - Eisacktal - SÃ¼dtirol",
+      "url": "http://www.bergundsteigen.at/?module=archiv/autoren/Plattner-Peter",
+      "title": "bergundsteigen.at",
+      "content": "Die Unfallmuster sind meist seit Jahrzehnten dieselben und hinlÃ¤nglich bekannt, gelegentlich passiert aber âetwas Neuesâ. Walter WÃ¼rtl und Peter Plattner haben mit UnterstÃ¼tzung der Alpinpolizei einige aktuelle UnfÃ¤lle herausgepickt",
       "engine": "seznam",
       "parsed_url": [
-        "https",
-        "www.drplattner.it",
-        "/index.php/en/10-praxis",
+        "http",
+        "www.bergundsteigen.at",
+        "/",
         "",
-        "",
+        "module=archiv/autoren/Plattner-Peter",
         ""
       ],
       "engines": [
         "seznam"
       ],
       "positions": [
-        7
+        6
       ],
-      "score": 0.14285714285714285,
+      "score": 0.16666666666666666,
       "category": "general",
-      "pretty_url": "https://www.drplattner.it/index.php/en/10-praxis"
+      "pretty_url": "http://www.bergundsteigen.at/?module=archiv/autoren/Plattner-Peter"
     },
     {
       "title": "Flo Plattner | Free Listening on SoundCloud",
@@ -325,14 +302,14 @@
       "pretty_url": "https://soundcloud.com/parapluiegrooves"
     },
     {
-      "url": "https://www.ewrc-results.com/results/56564-leitzachtal-rallye-2019/",
-      "title": "VÃ½sledky RZ Leitzachtal Rallye 2019",
-      "content": "Zapnout automatickÃ© aktualizace strÃ¡nek (60 s)",
+      "url": "https://www.drplattner.it/index.php/en/10-praxis",
+      "title": "Zahnarztpraxis Dr. Plattner | Brixen | Facharzt fÃ¼r Zahn-, Mund…",
+      "content": "Dr. Anton Plattner _ Zahnarzt in Brixen - Eisacktal - SÃ¼dtirol",
       "engine": "seznam",
       "parsed_url": [
         "https",
-        "www.ewrc-results.com",
-        "/results/56564-leitzachtal-rallye-2019/",
+        "www.drplattner.it",
+        "/index.php/en/10-praxis",
         "",
         "",
         ""
@@ -341,11 +318,11 @@
         "seznam"
       ],
       "positions": [
-        8
+        7
       ],
-      "score": 0.125,
+      "score": 0.14285714285714285,
       "category": "general",
-      "pretty_url": "https://www.ewrc-results.com/results/56564-leitzachtal-rallye-2019/"
+      "pretty_url": "https://www.drplattner.it/index.php/en/10-praxis"
     },
     {
       "title": "Florian Plattner - Historical records and family trees - MyHeritage",
@@ -371,14 +348,14 @@
       "pretty_url": "https://www.myheritage.com/names/florian_plattner"
     },
     {
-      "url": "https://www.ewrc-results.com/results/63917-adac-rallye-kohle-stahl-2020/",
-      "title": "VÃ½sledky RZ ADAC Rallye Kohle & Stahl 2020",
-      "content": "12. 9. 2020, Nohfelden â¢ MSC Obere-Nahe â¢ asfalt 60,48 km â¢ celkovÃ¡ dÃ©lka vÄetnÄ pÅejezdÅ¯ - 140,82 km â¢ JinÃ© roÄnÃ­ky",
+      "url": "https://www.ewrc-results.com/results/56564-leitzachtal-rallye-2019/",
+      "title": "VÃ½sledky RZ Leitzachtal Rallye 2019",
+      "content": "Zapnout automatickÃ© aktualizace strÃ¡nek (60 s)",
       "engine": "seznam",
       "parsed_url": [
         "https",
         "www.ewrc-results.com",
-        "/results/63917-adac-rallye-kohle-stahl-2020/",
+        "/results/56564-leitzachtal-rallye-2019/",
         "",
         "",
         ""
@@ -387,11 +364,11 @@
         "seznam"
       ],
       "positions": [
-        9
+        8
       ],
-      "score": 0.1111111111111111,
+      "score": 0.125,
       "category": "general",
-      "pretty_url": "https://www.ewrc-results.com/results/63917-adac-rallye-kohle-stahl-2020/"
+      "pretty_url": "https://www.ewrc-results.com/results/56564-leitzachtal-rallye-2019/"
     },
     {
       "title": "Florian Plattner | PubFacts",
@@ -417,14 +394,14 @@
       "pretty_url": "https://www.pubfacts.com/author/Florian+Plattner"
     },
     {
-      "url": "https://www.ewrc-results.com/final/55004-adac-3-stadte-rallye-2019/",
-      "title": "VÃ½sledky ADAC 3-StÃ¤dte-Rallye 2019",
-      "content": "18. 10. â 19. 10. 2019, Freyung â¢ asfalt 141,32 km â¢ JinÃ© roÄnÃ­ky",
+      "url": "https://www.ewrc-results.com/results/63917-adac-rallye-kohle-stahl-2020/",
+      "title": "VÃ½sledky RZ ADAC Rallye Kohle & Stahl 2020",
+      "content": "12. 9. 2020, Nohfelden â¢ MSC Obere-Nahe â¢ asfalt 60,48 km â¢ celkovÃ¡ dÃ©lka vÄetnÄ pÅejezdÅ¯ - 140,82 km â¢ JinÃ© roÄnÃ­ky",
       "engine": "seznam",
       "parsed_url": [
         "https",
         "www.ewrc-results.com",
-        "/final/55004-adac-3-stadte-rallye-2019/",
+        "/results/63917-adac-rallye-kohle-stahl-2020/",
         "",
         "",
         ""
@@ -433,11 +410,11 @@
         "seznam"
       ],
       "positions": [
-        10
+        9
       ],
-      "score": 0.1,
+      "score": 0.1111111111111111,
       "category": "general",
-      "pretty_url": "https://www.ewrc-results.com/final/55004-adac-3-stadte-rallye-2019/"
+      "pretty_url": "https://www.ewrc-results.com/results/63917-adac-rallye-kohle-stahl-2020/"
     },
     {
       "title": "florian-plattner · GitHub",
@@ -461,6 +438,29 @@
       "score": 0.1,
       "category": "general",
       "pretty_url": "https://github.com/florian-plattner"
+    },
+    {
+      "url": "https://www.ewrc-results.com/final/55004-adac-3-stadte-rallye-2019/",
+      "title": "VÃ½sledky ADAC 3-StÃ¤dte-Rallye 2019",
+      "content": "18. 10. â 19. 10. 2019, Freyung â¢ asfalt 141,32 km â¢ JinÃ© roÄnÃ­ky",
+      "engine": "seznam",
+      "parsed_url": [
+        "https",
+        "www.ewrc-results.com",
+        "/final/55004-adac-3-stadte-rallye-2019/",
+        "",
+        "",
+        ""
+      ],
+      "engines": [
+        "seznam"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general",
+      "pretty_url": "https://www.ewrc-results.com/final/55004-adac-3-stadte-rallye-2019/"
     },
     {
       "title": "Florian Plattner on Spotify",
