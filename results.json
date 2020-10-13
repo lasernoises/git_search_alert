@@ -628,10 +628,5 @@
   "corrections": [],
   "infoboxes": [],
   "suggestions": [],
-  "unresponsive_engines": [
-    [
-      "mojeek",
-      "timeout"
-    ]
-  ]
+  "unresponsive_engines": []
 }
