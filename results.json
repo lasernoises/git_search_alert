@@ -3,29 +3,6 @@
   "number_of_results": 0,
   "results": [
     {
-      "title": "Florian Plattner - YouTube",
-      "content": "Florian Plattner.",
-      "url": "https://www.youtube.com/channel/UC8R3yiE_9OiqjzC4_kupcZg",
-      "engine": "duckduckgo",
-      "parsed_url": [
-        "https",
-        "www.youtube.com",
-        "/channel/UC8R3yiE_9OiqjzC4_kupcZg",
-        "",
-        "",
-        ""
-      ],
-      "engines": [
-        "duckduckgo"
-      ],
-      "positions": [
-        1
-      ],
-      "score": 1,
-      "category": "general",
-      "pretty_url": "https://www.youtube.com/channel/UC8R3yiE_9OiqjzC4_kupcZg"
-    },
-    {
       "url": "https://en.wikipedia.org/wiki/Florian_Hoffmann",
       "title": "Florian Hoffmann - Wikipedia",
       "content": "Florian Hoffmann (born 1981) is an award-winning social entrepreneur and founder of The DO School. He sits on the Supervisory Board of the World Future Council, and was named one of 100 Young Global Leaders by the World Economic Forum in…",
@@ -49,14 +26,14 @@
       "pretty_url": "https://en.wikipedia.org/wiki/Florian_Hoffmann"
     },
     {
-      "title": "Florian Plattner | Facebook",
-      "content": "Florian Plattner is on Facebook. Join Facebook to connect with Florian Plattner and others you may know.",
-      "url": "https://www.facebook.com/florian.plattner.10",
+      "title": "Florian Plattner - YouTube",
+      "content": "Florian Plattner.",
+      "url": "https://www.youtube.com/channel/UC8R3yiE_9OiqjzC4_kupcZg",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "www.facebook.com",
-        "/florian.plattner.10",
+        "www.youtube.com",
+        "/channel/UC8R3yiE_9OiqjzC4_kupcZg",
         "",
         "",
         ""
@@ -65,11 +42,11 @@
         "duckduckgo"
       ],
       "positions": [
-        2
+        1
       ],
-      "score": 0.5,
+      "score": 1,
       "category": "general",
-      "pretty_url": "https://www.facebook.com/florian.plattner.10"
+      "pretty_url": "https://www.youtube.com/channel/UC8R3yiE_9OiqjzC4_kupcZg"
     },
     {
       "url": "https://www.youtube.com/watch?v=f-rjBli2u9g",
@@ -95,14 +72,14 @@
       "pretty_url": "https://www.youtube.com/watch?v=f-rjBli2u9g"
     },
     {
-      "title": "Florian PLATTNER | PhD | Assistant Professor | University of Texas...",
-      "content": "Florian Plattner. Florian Plattner. University of Texas Southwestern Medical Center | UT Southwestern · Department of Psychiatry.",
-      "url": "https://www.researchgate.net/profile/Florian_Plattner",
+      "title": "Florian Plattner | Facebook",
+      "content": "Florian Plattner is on Facebook. Join Facebook to connect with Florian Plattner and others you may know.",
+      "url": "https://www.facebook.com/florian.plattner.10",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "www.researchgate.net",
-        "/profile/Florian_Plattner",
+        "www.facebook.com",
+        "/florian.plattner.10",
         "",
         "",
         ""
@@ -111,11 +88,11 @@
         "duckduckgo"
       ],
       "positions": [
-        3
+        2
       ],
-      "score": 0.3333333333333333,
+      "score": 0.5,
       "category": "general",
-      "pretty_url": "https://www.researchgate.net/profile/Florian_Plattner"
+      "pretty_url": "https://www.facebook.com/florian.plattner.10"
     },
     {
       "url": "https://twitter.com/WolfgP1",
@@ -141,27 +118,27 @@
       "pretty_url": "https://twitter.com/WolfgP1"
     },
     {
-      "title": "Florian Plattner‬ - ‪Google Scholar",
-      "content": "Distinct roles of different neural cell adhesion molecule (NCAM) isoforms in synaptic maturation revealed by analysis of NCAM 180 kDa isoform-deficient mice. L Polo-Parada, CM Bose, F Plattner...",
-      "url": "https://scholar.google.com/citations?user=sqLGUr4AAAAJ&hl=en",
+      "title": "Florian PLATTNER | PhD | Assistant Professor | University of Texas...",
+      "content": "Florian Plattner. Florian Plattner. University of Texas Southwestern Medical Center | UT Southwestern · Department of Psychiatry.",
+      "url": "https://www.researchgate.net/profile/Florian_Plattner",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "scholar.google.com",
-        "/citations",
+        "www.researchgate.net",
+        "/profile/Florian_Plattner",
         "",
-        "user=sqLGUr4AAAAJ&hl=en",
+        "",
         ""
       ],
       "engines": [
         "duckduckgo"
       ],
       "positions": [
-        4
+        3
       ],
-      "score": 0.25,
+      "score": 0.3333333333333333,
       "category": "general",
-      "pretty_url": "https://scholar.google.com/citations?user=sqLGUr4AAAAJ&hl=en"
+      "pretty_url": "https://www.researchgate.net/profile/Florian_Plattner"
     },
     {
       "url": "http://www.opencsg.org/data/csg_freenix2005_talk.pdf",
@@ -187,27 +164,27 @@
       "pretty_url": "http://www.opencsg.org/data/csg_freenix2005_talk.pdf"
     },
     {
-      "title": "Florian Plattner (floma8) auf Pinterest",
-      "content": "Sieh dir an, was Florian Plattner (floma8) auf Pinterest entdeckt hat - die weltweit größte Ideensammlung. Die besten Pinnwände von Florian Plattner.",
-      "url": "https://www.pinterest.ru/floma8/",
+      "title": "Florian Plattner‬ - ‪Google Scholar",
+      "content": "Distinct roles of different neural cell adhesion molecule (NCAM) isoforms in synaptic maturation revealed by analysis of NCAM 180 kDa isoform-deficient mice. L Polo-Parada, CM Bose, F Plattner...",
+      "url": "https://scholar.google.com/citations?user=sqLGUr4AAAAJ&hl=en",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "www.pinterest.ru",
-        "/floma8/",
+        "scholar.google.com",
+        "/citations",
         "",
-        "",
+        "user=sqLGUr4AAAAJ&hl=en",
         ""
       ],
       "engines": [
         "duckduckgo"
       ],
       "positions": [
-        5
+        4
       ],
-      "score": 0.2,
+      "score": 0.25,
       "category": "general",
-      "pretty_url": "https://www.pinterest.ru/floma8/"
+      "pretty_url": "https://scholar.google.com/citations?user=sqLGUr4AAAAJ&hl=en"
     },
     {
       "url": "https://www.bpv-huegel.com/juristen/",
@@ -233,14 +210,14 @@
       "pretty_url": "https://www.bpv-huegel.com/juristen/"
     },
     {
-      "title": "Florian Plattner | Semantic Scholar",
-      "content": "Semantic Scholar profile for Florian Plattner, with 71 highly influential citations and 47 scientific research papers.",
-      "url": "https://www.semanticscholar.org/author/Florian-Plattner/5163243",
+      "title": "Florian Plattner (floma8) auf Pinterest",
+      "content": "Sieh dir an, was Florian Plattner (floma8) auf Pinterest entdeckt hat - die weltweit größte Ideensammlung. Die besten Pinnwände von Florian Plattner.",
+      "url": "https://www.pinterest.ru/floma8/",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "www.semanticscholar.org",
-        "/author/Florian-Plattner/5163243",
+        "www.pinterest.ru",
+        "/floma8/",
         "",
         "",
         ""
@@ -249,11 +226,11 @@
         "duckduckgo"
       ],
       "positions": [
-        6
+        5
       ],
-      "score": 0.16666666666666666,
+      "score": 0.2,
       "category": "general",
-      "pretty_url": "https://www.semanticscholar.org/author/Florian-Plattner/5163243"
+      "pretty_url": "https://www.pinterest.ru/floma8/"
     },
     {
       "url": "http://www.bergundsteigen.at/?module=archiv/autoren/Plattner-Peter",
@@ -279,14 +256,14 @@
       "pretty_url": "http://www.bergundsteigen.at/?module=archiv/autoren/Plattner-Peter"
     },
     {
-      "title": "Flo Plattner | Free Listening on SoundCloud",
-      "content": "Listen to Flo Plattner | SoundCloud is an audio platform that lets you listen to what you love and share the sounds you Stream Tracks and Playlists from Flo Plattner on your desktop or mobile device.",
-      "url": "https://soundcloud.com/parapluiegrooves",
+      "title": "Florian Plattner | Semantic Scholar",
+      "content": "Semantic Scholar profile for Florian Plattner, with 71 highly influential citations and 47 scientific research papers.",
+      "url": "https://www.semanticscholar.org/author/Florian-Plattner/5163243",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "soundcloud.com",
-        "/parapluiegrooves",
+        "www.semanticscholar.org",
+        "/author/Florian-Plattner/5163243",
         "",
         "",
         ""
@@ -295,11 +272,11 @@
         "duckduckgo"
       ],
       "positions": [
-        7
+        6
       ],
-      "score": 0.14285714285714285,
+      "score": 0.16666666666666666,
       "category": "general",
-      "pretty_url": "https://soundcloud.com/parapluiegrooves"
+      "pretty_url": "https://www.semanticscholar.org/author/Florian-Plattner/5163243"
     },
     {
       "url": "https://www.drplattner.it/index.php/en/10-praxis",
@@ -325,14 +302,14 @@
       "pretty_url": "https://www.drplattner.it/index.php/en/10-praxis"
     },
     {
-      "title": "Florian Plattner - Historical records and family trees - MyHeritage",
-      "content": "Florian Plattner was born on month day 1920, at birth place, to Anton Plattner and Maria Plattner (born Gruber). Anton was born on November 20 1883, in Flaas, Mölten, Südtirol, Austria.",
-      "url": "https://www.myheritage.com/names/florian_plattner",
+      "title": "Flo Plattner | Free Listening on SoundCloud",
+      "content": "Listen to Flo Plattner | SoundCloud is an audio platform that lets you listen to what you love and share the sounds you Stream Tracks and Playlists from Flo Plattner on your desktop or mobile device.",
+      "url": "https://soundcloud.com/parapluiegrooves",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "www.myheritage.com",
-        "/names/florian_plattner",
+        "soundcloud.com",
+        "/parapluiegrooves",
         "",
         "",
         ""
@@ -341,11 +318,11 @@
         "duckduckgo"
       ],
       "positions": [
-        8
+        7
       ],
-      "score": 0.125,
+      "score": 0.14285714285714285,
       "category": "general",
-      "pretty_url": "https://www.myheritage.com/names/florian_plattner"
+      "pretty_url": "https://soundcloud.com/parapluiegrooves"
     },
     {
       "url": "https://www.ewrc-results.com/results/56564-leitzachtal-rallye-2019/",
@@ -371,14 +348,14 @@
       "pretty_url": "https://www.ewrc-results.com/results/56564-leitzachtal-rallye-2019/"
     },
     {
-      "title": "Florian Plattner | PubFacts",
-      "content": "Publications by authors named \"Florian Plattner\". Keiko Mizuno Florian Plattner K Peter Giese.",
-      "url": "https://www.pubfacts.com/author/Florian+Plattner",
+      "title": "Florian Plattner - Historical records and family trees - MyHeritage",
+      "content": "Florian Plattner was born on month day 1920, at birth place, to Anton Plattner and Maria Plattner (born Gruber). Anton was born on November 20 1883, in Flaas, Mölten, Südtirol, Austria.",
+      "url": "https://www.myheritage.com/names/florian_plattner",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "www.pubfacts.com",
-        "/author/Florian+Plattner",
+        "www.myheritage.com",
+        "/names/florian_plattner",
         "",
         "",
         ""
@@ -387,11 +364,11 @@
         "duckduckgo"
       ],
       "positions": [
-        9
+        8
       ],
-      "score": 0.1111111111111111,
+      "score": 0.125,
       "category": "general",
-      "pretty_url": "https://www.pubfacts.com/author/Florian+Plattner"
+      "pretty_url": "https://www.myheritage.com/names/florian_plattner"
     },
     {
       "url": "https://www.ewrc-results.com/final/55004-adac-3-stadte-rallye-2019/",
@@ -417,14 +394,14 @@
       "pretty_url": "https://www.ewrc-results.com/final/55004-adac-3-stadte-rallye-2019/"
     },
     {
-      "title": "florian-plattner · GitHub",
-      "content": "florian-plattner has 3 repositories available. Follow their code on GitHub. Report or block florian-plattner. Hide content and notifications from this user.",
-      "url": "https://github.com/florian-plattner",
+      "title": "Florian Plattner | PubFacts",
+      "content": "Publications by authors named \"Florian Plattner\". Keiko Mizuno Florian Plattner K Peter Giese.",
+      "url": "https://www.pubfacts.com/author/Florian+Plattner",
       "engine": "duckduckgo",
       "parsed_url": [
         "https",
-        "github.com",
-        "/florian-plattner",
+        "www.pubfacts.com",
+        "/author/Florian+Plattner",
         "",
         "",
         ""
@@ -433,11 +410,11 @@
         "duckduckgo"
       ],
       "positions": [
-        10
+        9
       ],
-      "score": 0.1,
+      "score": 0.1111111111111111,
       "category": "general",
-      "pretty_url": "https://github.com/florian-plattner"
+      "pretty_url": "https://www.pubfacts.com/author/Florian+Plattner"
     },
     {
       "url": "https://www.ewrc-results.com/results/63917-adac-rallye-kohle-stahl-2020/",
@@ -461,6 +438,29 @@
       "score": 0.1,
       "category": "general",
       "pretty_url": "https://www.ewrc-results.com/results/63917-adac-rallye-kohle-stahl-2020/"
+    },
+    {
+      "title": "florian-plattner · GitHub",
+      "content": "florian-plattner has 3 repositories available. Follow their code on GitHub. Report or block florian-plattner. Hide content and notifications from this user.",
+      "url": "https://github.com/florian-plattner",
+      "engine": "duckduckgo",
+      "parsed_url": [
+        "https",
+        "github.com",
+        "/florian-plattner",
+        "",
+        "",
+        ""
+      ],
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general",
+      "pretty_url": "https://github.com/florian-plattner"
     },
     {
       "title": "Florian Plattner on Spotify",
@@ -858,5 +858,10 @@
   "corrections": [],
   "infoboxes": [],
   "suggestions": [],
-  "unresponsive_engines": []
+  "unresponsive_engines": [
+    [
+      "mojeek",
+      "timeout"
+    ]
+  ]
 }
